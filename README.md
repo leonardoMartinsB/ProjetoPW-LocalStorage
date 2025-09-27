@@ -40,13 +40,7 @@ Tela do Projeto
 * **HTML5** → Estrutura da aplicação
 * **CSS3** → Estilização + responsividade
 * **JavaScript (Vanilla)** → Lógica de armazenamento e troca de temas
-* **LocalStorage API** → Persistência de dados no navegador
-
----
-
-## 🚀 Aprendizados
-
-Esse projeto marcou o início no uso de **APIs do navegador** e mostrou como é possível criar interações simples e eficazes sem precisar de banco de dados. Foi um passo importante para evoluir em direção a projetos mais robustos.
+* **LocalStorage** → Persistência de dados no navegador
 
 ---
 
