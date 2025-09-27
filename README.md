@@ -26,10 +26,12 @@ O objetivo era **armazenar preferências do usuário** (como o modo claro/escuro
 
 ### Página inicial
 
+Tela do Projeto
+<img width="1415" height="734" alt="image" src="https://github.com/user-attachments/assets/f634dcc9-1805-4cb5-92a6-7e943409c378" />
 
 
 🔗 **Acesse o projeto online:**
-👉 [Clique aqui para visualizar](https://leonardomartinsb.github.io/PW---LocalStorage-Matematica/)
+👉 [Clique aqui para visualizar](https://leonardomartinsb.github.io/ProjetoPW-LocalStorage/)
 
 ---
 
